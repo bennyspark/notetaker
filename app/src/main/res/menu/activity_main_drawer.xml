@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/ic_note_add_black_24dp"
+            android:title="@string/first_layout" />
+        <item
+            android:id="@+id/nav_theme"
+            android:icon="@drawable/ic_blur_circular_black_24dp"
+            android:title="@string/second_layout" />
+        <item
+            android:id="@+id/nav_backup"
+            android:icon="@drawable/ic_backup_black_24dp"
+            android:title="@string/third_layout" />
+    </group>
+
+    <item android:title="@string/app_communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="@string/app_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_email_black_24dp"
+                android:title="@string/app_send" />
+        </menu>
+    </item>
+
+</menu>

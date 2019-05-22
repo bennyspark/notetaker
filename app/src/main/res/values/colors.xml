@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B71C1C</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorAccent">#e91e63</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="lightBlack">#424242</color>
+    <color name="colorClick">#abcdef</color>
+    <color name="border">#FFAB91</color>
+    <color name="back_buttonpressed">#757575</color>
+    <color name="backbutton_default">#EEEEEE</color>
+</resources>

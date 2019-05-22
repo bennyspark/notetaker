@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:enabled="true"
+        android:title="@string/save"
+        android:id="@+id/action_update"
+        android:icon="@drawable/ic_save"
+        android:visible="false"
+        android:orderInCategory="0"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/preview_edit"
+        android:icon="@drawable/ic_edit"
+       app:showAsAction="ifRoom"
+        android:orderInCategory="10"
+        android:title="@string/edit" />
+    <item
+        android:id="@+id/send"
+        android:orderInCategory="20"
+        android:icon="@drawable/ic_send_black_24dp"
+        android:title="@string/send"/>
+    <item
+        android:id="@+id/action_delete"
+        android:orderInCategory="30"
+        android:icon="@drawable/ic_delete_black_24dp"
+        android:title="@string/delete" />
+    <!-- UPDATE NOTE -->
+
+
+</menu>

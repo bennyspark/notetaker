@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">NoteTaker</string>
+    <string name="theme_settings">Set Theme</string>
+    <string name="view">Change View</string>
+    <string name="search">Search</string>
+    <string name="add">New Note</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="first_layout">Notes</string>
+    <string name="second_layout">Theme</string>
+    <string name="third_layout">Backup</string>
+    <string name="app_communicate">communicate</string>
+    <string name="app_share">share</string>
+    <string name="app_send">mail</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="save">save</string>
+    <string name="list">List</string>
+    <string name="choose">Select view</string>
+    <string name="grid">Grid</string>
+    <string name="send">send</string>
+    <string name="custom_theme">SELECT THEME</string>
+    <string name="listview">listview</string>
+    <string name="gridview">gridview</string>
+    <string name="header">header</string>
+    <string name="title">title</string>
+    <string name="enter_your_note">enter your note</string>
+    <string name="save_note">save note</string>
+    <string name="cancel">cancel</string>
+    <string name="perform_backup">Perform Backup</string>
+    <string name="add_note">Add a Note</string>
+</resources>
